@@ -12,4 +12,5 @@ class Controller extends BaseController
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
     // тестовый коммит
     //второй тестовый коммит
+    //третий коммит
 }
